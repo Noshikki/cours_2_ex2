@@ -4,6 +4,6 @@
 -j'ai une image de paysage 
 -elle est centrée 
 -le style est dans index.html
-   1 oui  
-   2 j'essaye  
-   3 des trucs  
+   1. oui  
+   2. j'essaye  
+   3. des trucs  
